@@ -110,24 +110,14 @@ projects:
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      You can list your publications in this
     papers:
-      - title: The Art of Computer Programming
+      - title: Internal Wikis
         link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+        authors: Luiza Mara Timoc
+        conference: Linkoping University, 2017
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
@@ -152,4 +142,4 @@ skills:
         level: 60%
 
 footer: >
-    Follow me on  <i class="fas fa-heart"></i> by <a href="http://linkedin.com/in/luizamarat/" target="_blank" rel="nofollow">Linkedin</a>
+    For more datails, follow me on <a href="http://linkedin.com/in/luizamarat/" target="_blank" rel="nofollow">Linkedin</a>
