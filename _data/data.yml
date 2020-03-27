@@ -40,7 +40,6 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-     Summarise your career here
      Enjoying my journey of strategic planning, organizational change by creating human-technology synergies. 
     
 education:
@@ -60,9 +59,9 @@ education:
       details: |
         Field Of Study Economy of Commerce, Tourism and Services
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: R&D IT PMO 
+      time: 2019 - Present
+      company: AstraZeneca, Goteborg, Sweden
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
