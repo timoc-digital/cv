@@ -44,28 +44,21 @@ career-profile:
      Enjoying my journey of strategic planning, organizational change by creating human-technology synergies. 
     
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: MSc in Business Administration
+      university: Linkoping University, Linkoping, Sweden
+      time: 2011 - 2014
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+        Field Of Study Business Administration and Management, Research-based
+    - degree: BSc of Business Administration (B.B.A.)
+      university: Babeș-Bolyai University, Cluj-Napoca, Romania
+      time: 2004 - 2008
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Field Of Study Business Administration and Management, General
+    - degree: BSc of Business Administration (B.B.A.)
+      university: Babeș-Bolyai University, Cluj-Napoca, Romania
+      time: 2004 - 2008
+      details: |
+        Field Of Study Economy of Commerce, Tourism and Services
 experiences:
     - role: Lead Developer
       time: 2015 - Present
