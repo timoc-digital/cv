@@ -63,7 +63,6 @@ education:
       Field Of Study Economy of Commerce, Tourism and Services
 
 
-
 experiences:
     - role: R&D IT PMO 
       time: 2015 - Present
@@ -111,7 +110,7 @@ experiences:
         Providing content management for the company's website and catalogs.
 
 projects:
-    title: Brand Auditor
+    title: Projects
     intro: >
       You can list your side projects or open source libraries in this
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
@@ -159,7 +158,7 @@ publications:
         conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Skills and Proficiency
 
     toolset:
       - name: Marketing strategy
