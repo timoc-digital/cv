@@ -37,38 +37,32 @@ sidebar:
       - item: Traveling
         link:
 
+
 career-profile:
-    title: Career Profile
+    title: Digital Transformation Specialist
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+    Enjoying my journey of strategic planning, organizational change by creating human-technology synergies. 
+      
+      
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: MSc in Business Administration
+      university: Linkoping University, Linkoping, Sweden
+      time: 2011 - 2014
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+      Research-based knowledge grounded in rich empirical examples, a focus on critical and in-depth analysis, and communication of results. 
+     
+    - degree: BSc of Business Administration (B.B.A.)
+      university: Babeș-Bolyai University, Cluj-Napoca, Romania
+      time: 2004 - 2008
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+      Field Of Study Business Administration and Management, General
+      
+    - degree: BSc of Business Administration (B.B.A.)
+      university: Babeș-Bolyai University, Cluj-Napoca, Romania
+      time: 2004 - 2008
+      details: |
+      Field Of Study Economy of Commerce, Tourism and Services
+
 experiences:
     - role: Lead Developer
       time: 2015 - Present
