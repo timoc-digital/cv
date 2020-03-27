@@ -31,9 +31,6 @@ sidebar:
       - item: Reading
         link:
 
-      - item: Skiing
-        link:
-
       - item: Traveling
         link:
 
@@ -107,4 +104,4 @@ skills:
         level: 60%
 
 footer: >
-    To read the full CV and more datails, follow me on <a href="http://linkedin.com/in/luizamarat/" target="_blank" rel="nofollow">Linkedin</a>
+    To read the full CV and much more details, follow me on <a href="http://linkedin.com/in/luizamarat/" target="_blank" rel="nofollow">Linkedin</a>
