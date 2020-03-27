@@ -1,5 +1,5 @@
 #
-# Be aware that even a small syntax error here can lead to failures in output. 
+# Be aware that even a small syntax error here can lead to failures in output.
 #
 
 sidebar:
@@ -7,130 +7,183 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Luiza Timoc
-    tagline: Digital Transformation Specialist
-    avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: Alan Doe
+    tagline: Full Stack Developer
+    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: luiza@timoc.digital
-    website: timoc.digital #do not add http://
-    linkedin: luizamarat
-    twitter: '@maratimoc'
-    
+    email: hello@webjeda.com
+    phone: 012 345 6789
+    website: blog.webjeda.com #do not add http://
+    linkedin: alandoe
+    github: sharu725
+    gitlab:
+    bitbucket:
+    twitter: '@webjeda'
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    codewars:
+    goodreads: # Number-Username, e.g. 123456-alandoe
+
     languages:
-      - idiom: Romanian
+      - idiom: English
         level: Native
 
-      - idiom: English
+      - idiom: French
         level: Professional
 
-      - idiom: Swedish
+      - idiom: Spanish
         level: Professional
-        
+
     interests:
-      - item: Reading
+      - item: Climbing
         link:
 
-      - item: Skiing
+      - item: Snowboarding
         link:
 
-      - item: Traveling
+      - item: Cooking
         link:
 
 career-profile:
-    title: Digital Transformation Specialist
+    title: Career Profile
     summary: |
-    Enjoying my journey of strategic planning and organizational change by creating human-technology synergies. 
-    
-      
+      Summarise your career here lorem ipsum dolor sit amet, consectetuer
+      adipiscing elit. You can [download this free resume/CV template here]().
+      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
+      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+      Donec quam felis, ultricies nec, pellentesque eu.
+      Second paragraph if required.
 education:
-    - degree: MSc in Business Administration
-      university: Linkoping University, Linkoping, Sweden
-      time: 2011 - 2014
+    - degree: MSc in Computer Science
+      university: University of London
+      time: 2011 - 2012
       details: |
-      Research-based knowledge grounded in rich empirical examples 
-      
-    - degree: BSc of Business Administration (B.B.A.)
-      university: Babeș-Bolyai University, Cluj-Napoca, Romania
-      time: 2004 - 2008
-      details: |
-      Field Of Study Business Administration and Management, General
-      
-    - degree: BSc of Business Administration (B.B.A.)
-      university: Babeș-Bolyai University, Cluj-Napoca, Romania
-      time: 2004 - 2008
-      details: |
-      Field Of Study Economy of Commerce, Tourism and Services
-
-
-experiences:
-    - role: R&D IT PMO 
-      time: 2015 - Present
-      company: AstraZeneca, Goteborg, Sweden
-      details: |
-      
-
-    - role: Co-organizer            
-      time: 2016 - Present
-      company: NASA SpaceApps Challenge, Sweden
-      details: |
-      Promoting the event through social media, press, networking, events and one to one meetings. 
-      Market research; sponsor database creation and management.
-      Proven results of the existing portfolio of sponsors and partners.
-
-    - role: Project Coordinator
-      time: 2014 - 2019
-      company: Heart to Heart, Linkoping, Sweden
-      details: |
-        Responsible for implementing the project by building networks of cooperation for each segment.
-        Product and project promotion in conferences, fairs, press, meetings, lectures and fundraising campaigns.
-        Proven results of bringing new donors and customers to social enterprises.  
-        Coordination of activities, resources and information.
-        Market research and relationship building with new customers and partners.
-        Point of contact between and within multicultural teams. Building trust and resolving cultural differences.
-        Keeping the project and all related processes running smoothly.
-        
-     - role: Brand Auditor
-      time: 2013 - 2015
-      company: Bare International, Sweden
-      details: |
-        Conducting covert brand audits
-        
-      - role: Sales Representative/Travel Consultant
+        Describe your study here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, sem.
+          - Bullet point
+          - Bullet point
+    - degree: BSc in Applied Mathematics
+      university: Bristol University
       time: 2007 - 2011
-      company: Eximtur
       details: |
-        Discuss client requirements and advise on suitable options.
-        Plan, prepare and price itineraries (travel plans) for clients.
-        Issue tickets for travel, accommodation vouchers and all relevant documentation.
-        Collect payments and maintain records of transactions.
-        Daily use of the company's CRM system.
-        Assist with changes to travel arrangements and bookings where required.
-        Identifying new sales opportunities within existing accounts to maintain a client-account manager relationship by up-selling and cross-selling.
-        Providing content management for the company's website and catalogs.
-        
+        Describe your study here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, sem.
+          - Bullet point
+          - Bullet point
+experiences:
+    - role: Lead Developer
+      time: 2015 - Present
+      company: Startup Hubs, San Francisco
+      details: |
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
+        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
+        error sit voluptatem accusantium doloremque laudantium, totam rem
+        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+        architecto beatae vitae dicta sunt explicabo.
+          - Bullet point
+          - Bullet point
+    - role: Senior Software Engineer
+      time: 2014 - 2015
+      company: Google, London
+      details: |
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem.
+          - Bullet point
+          - Bullet point
+    - role: UI Developer
+      time: 2012 - 2014
+      company: Amazon, London
+      details: |
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem.
+          - Bullet point
+          - Bullet point
+projects:
+    title: Projects
+    intro: >
+      You can list your side projects or open source libraries in this
+      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    assignments:
+      - title: Velocity
+        link: "#hook"
+        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+
+      - title: DevStudio
+        link: "#"
+        tagline: "A responsive website template designed to help web developers/designers market their services."
+
+      - title: Tempo
+        link: "#"
+        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+
+      - title: Atom
+        link: "#"
+        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+
+      - title: Delta
+        link: "#"
+        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+
+publications:
+    title: Publications
+    intro: |
+      You can list your publications in this section. Lorem ipsum dolor sit
+      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+      bibendum fringilla a eu lectus.
+    papers:
+      - title: The Art of Computer Programming
+        link: "#"
+        authors: Donald E. Knuth
+        conference: Addison-Wesley, 1968
+
+      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+        link: "#"
+        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+
+      - title: A syntax directed compiler for Algol 60
+        link: "#"
+        authors: Edgar T. Irons
+        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
-    title: Skills and Proficiency
+    title: Skills &amp; Proficiency
 
     toolset:
-      - name: Marketing strategy
+      - name: Python & Django
         level: 98%
 
-      - name: Sales Management
+      - name: Javascript & jQuery
         level: 98%
 
-      - name: Analysis
+      - name: Angular
         level: 98%
 
-      - name: Project Management
+      - name: HTML5 & CSS
         level: 95%
 
-      - name: Business Analysis
+      - name: Ruby on Rails
         level: 85%
 
-      - name: Management Consulting
-        level: 90%
+      - name: Sketch & Photoshop
+        level: 60%
 
 footer: >
-   
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
